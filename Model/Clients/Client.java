@@ -60,6 +60,6 @@ public class Client extends Human {
     @Override
     public void display() {
         super.display();
-        System.out.println("Client Email: " + getClient_email());
+        System.out.println("Client Email is : " + getClient_email());
     }
 }
